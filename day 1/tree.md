@@ -1,6 +1,12 @@
 # Tree
 
-It is a collection of nodes and the top node is taken as root node and rest of the nodes are divided into disjoint subsets. Each subset is aslo a tree.
+It is a collection of nodes and the top node is taken as root node and rest of the nodes are divided into disjoint subsets. Each subset is aslo a tree. Also we can say that a tree is a "rooted , directed and acyclic " structure.
+
+# Conditions to be a tree
+
+1. Must have a root
+2. Must have directed edges
+3. Must not have a cycle
 
 # Important Terms
 
