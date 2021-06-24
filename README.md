@@ -20,8 +20,8 @@
             <td>Basics of trees</td>
         </tr>
         <tr>
-            <td>2</td>
-            <td></td>
+            <td align="center">2</td>
+            <td>Tree Traversals</td>
         </tr>
         <tr>
             <td>3</td>
