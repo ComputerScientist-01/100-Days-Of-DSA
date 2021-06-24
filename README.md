@@ -16,8 +16,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>1</td>
-            <td></td>
+            <td align="center">1</td>
+            <td>Basics of trees</td>
         </tr>
         <tr>
             <td>2</td>
