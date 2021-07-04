@@ -24,8 +24,8 @@
             <td>Tree Traversals</td>
         </tr>
         <tr>
-            <td>3</td>
-            <td></td>
+            <td align="center">3</td>
+            <td>Building tree from traversals</td>
         </tr>
         <tr>
             <td>4</td>
