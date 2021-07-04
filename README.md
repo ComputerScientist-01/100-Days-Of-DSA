@@ -28,8 +28,8 @@
             <td>Building tree from traversals</td>
         </tr>
         <tr>
-            <td>4</td>
-            <td></td>
+            <td  align="center">4</td>
+            <td>Level Order Traversal & Applications</td>
         </tr>
         <tr>
             <td>5</td>
