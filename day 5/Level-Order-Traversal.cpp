@@ -69,5 +69,17 @@ int main()
     root->left->right = new Node(5);
     root->right->left = new Node(6);
     root->right->right = new Node(7);
+    vector<vector<int>> res;
+
+    res = levelOrder(root);
+
+    for (int i = 0; i < res.size(); i++)
+    {
+        for (int j = 0; j < res[i].size(); j++)
+        {
+            cout << res[i][j] << " ";
+        }
+        cout << endl;
+    }
     return 0;
 }
