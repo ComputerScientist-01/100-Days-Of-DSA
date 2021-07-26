@@ -32,8 +32,8 @@
             <td>Level Order Traversal & Applications</td>
         </tr>
         <tr>
-            <td>5</td>
-            <td></td>
+            <td  align="center">5</td>
+            <td>Height & Diameter of Binary Tree</td>
         </tr>
         <tr>
             <td>6</td>
